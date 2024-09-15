@@ -1,0 +1,33 @@
+
+.imageLogo{
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    margin-top: 25px;
+    text-align: center;
+  }
+
+.boxHeader{
+  
+  font-weight: 500;
+  font-size: 1rem;
+  color: white;
+  
+}
+
+.headerClass{
+  height: 100px;
+}
+
+.boxHeaderText {
+  height: 83px;
+  font-weight: 500;
+  font-size: 1rem;
+  color: white;
+
+}
+
+.textLogo{
+  margin-top: 25px;
+  font-size: 18px;
+}
